@@ -5,3 +5,4 @@
 - Rails
 - html
 - erb
+- git
